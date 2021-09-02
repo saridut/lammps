@@ -223,6 +223,7 @@ OPT.
    * :doc:`reax/c (ko) <pair_reaxc>`
    * :doc:`rebo (io) <pair_airebo>`
    * :doc:`resquared (go) <pair_resquared>`
+   * :doc:`sciortino <pair_sciortino>`
    * :doc:`sdpd/taitwater/isothermal <pair_sdpd_taitwater_isothermal>`
    * :doc:`smd/hertz <pair_smd_hertz>`
    * :doc:`smd/tlsph <pair_smd_tlsph>`

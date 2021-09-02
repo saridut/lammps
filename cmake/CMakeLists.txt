@@ -688,7 +688,7 @@ if(BUILD_SHARED_LIBS OR PKG_PYTHON)
         set(Python_EXECUTABLE ${PYTHON_EXECUTABLE})
     endif()
   else()
-    find_package(Python COMPONENTS Interpreter)
+        find_package(Python COMPONENTS Interpreter)
   endif()
   if (Python_EXECUTABLE)
     execute_process(COMMAND ${Python_EXECUTABLE}
